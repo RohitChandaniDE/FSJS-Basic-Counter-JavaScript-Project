@@ -14,10 +14,10 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-basic-counter-javascript-project.netlify.app/)
 
 ***
 
 ### ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
 
-![image](/02BasicCounter/Image/Basic_Counter.png)
+![image](/Image/Basic_Counter.png)
